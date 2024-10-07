@@ -18,7 +18,7 @@ public class Product
         this.name = name;
     }
 
-    public Double getPrice() {
+    public double getPrice() {
         return price;
     }
 
